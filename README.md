@@ -1,3 +1,5 @@
 # SalesIncentive
 SalesIncentive
-后台代码，使用SpringBoot实现；与前台VUE技术做的Html5页面交互，接口采用Json。
+销售员激励系统后台代码，使用SpringBoot实现；
+与前台VUE技术做的Html5页面交互，接口数据采用Json格式；
+葫芦娃开发团队成员可以点击右上角的Fork克隆到自己的GitHub中做对应修改，修改后点击合并申请，我接到申请，是符合的代码申请我会审批通过。
